@@ -8,3 +8,6 @@ windows.release.x86_64 = "res://libvpuppr/target/release/libvpuppr.dll"
 
 linux.debug.x86_64 = "res://libvpuppr/target/debug/libvpuppr.so"
 linux.release.x86_64 = "res://libvpuppr/target/release/libvpuppr.so"
+
+macos.debug = "res://libvpuppr/target/debug/liblibvpuppr.dylib"
+macos.release = "res://libvpuppr/target/release/liblibvpuppr.dylib"
