@@ -30,4 +30,3 @@ youlog = "0.1.1"
 
 [build]
 target = [ "arm64e-apple-darwin" ]
-target = [ "x86_64-apple-darwin" ]
