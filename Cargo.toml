@@ -27,3 +27,7 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 tot = "0.2"
 youlog = "0.1.1"
+
+[build]
+target = [ "arm64e-apple-darwin" ]
+target = [ "x86_64-apple-darwin" ]
